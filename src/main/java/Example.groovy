@@ -1,5 +1,6 @@
 class Example {
     static void main(String [] args) {
-        println('Hello World!')
+        def username = 'Username'
+        println('Hello ' + username + "!")
     }
 }
